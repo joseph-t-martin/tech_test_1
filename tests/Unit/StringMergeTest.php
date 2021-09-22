@@ -9,7 +9,7 @@ class StringMergeTest extends TestCase
     /**
      * @test
      */
-    public function checkForRepeatingLetters()
+    public function mergeTwoStrings()
     {
         $dataset = [
             [

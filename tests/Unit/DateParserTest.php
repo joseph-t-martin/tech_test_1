@@ -9,7 +9,7 @@ class DateParserTest extends TestCase
     /**
      * @test
      */
-    public function checkForRepeatingLetters()
+    public function formatDates()
     {
         $dataset = [
             [
