@@ -1,7 +1,6 @@
 <?php
 namespace tests\Unit;
 
-use Classes\StringMerge;
 use Classes\SuperDigit;
 use PHPUnit\Framework\TestCase;
 
